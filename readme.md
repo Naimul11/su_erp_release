@@ -5,6 +5,8 @@ ERP system টি app এ integrate করেছি।
 - পুরো ক্লাস রুটিনটি সুন্দর করে সাজিয়ে দেখাবে।
 - এক্সাম রুটিন দেখা যাবে। 
 - এক্সাম রেজাল্ট দেখা যাবে। 
+-payment করা যাবে এবং সকল payment history দেখা যাবে।
+-Admit card download করা যাবে।
 - Teaching evaluation দেয়া যাবে এবং সহজে ১ ক্লিকেই 
   যেকোনো option মার্ক করা যাবে। 
 - Teacher Details পাওয়া যাবে এবং mentor meeting  এর জন্য আবেদন করা যাবে এবং সেটি অনেক সহজেই একজন Teacher approve করে দিতে পারবে using web page. (set up message in gmail with automated link) 
